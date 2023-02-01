@@ -1,0 +1,4 @@
+shouldCalculateForRegisteredAndUnderLimit,30,1000,true
+shouldCalculateForRegisteredAndOverLimit,500,1000000,true
+shouldCalculateForUnregisteredAndUnderLimit,10,1000,false
+shouldCalculateForUnregisteredAndOverLimit,500,100000,false
